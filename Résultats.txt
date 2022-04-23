@@ -1,0 +1,21 @@
+Trame n°1: 74 bytes on wire (592 bits)
+Ethernet II, Src: (00:01:02:a5:fc:8d), Dst: (00:01:02:a5:fb:3a)
+	Destination: 00:01:02:a5:fb:3a
+	Source: 00:01:02:a5:fc:8d
+	Type:  IPV4 (0x0800)
+	Version: 4
+	Header Length: 20 bytes (5)
+	Differentiated Services Field: 0x00
+	  0000 00.. = Differentiated Services Codepoint: Default (0)
+	  .... ..00 = Explicit Congestion Notification
+	Total length 60 bytes (0x003c)
+	Identification: 0xec26 (60454)
+	Flags: 0x4000, Don't Fragment
+		0... .... .... .... = Reserved bit: Not Set
+		.1.. .... .... .... = Don't Fragment: Set
+		..0. .... .... .... = More Fragments: Not Set
+		...0 0000 0000 0000 = Fragment Offset: 0
+	Time To Live: 64 (40)
+
+
+==========================================================================================================================================================================================================
